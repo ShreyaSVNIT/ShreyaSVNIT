@@ -1,70 +1,85 @@
-<h1 align="center">Hi, I'm Shreya Ashar</h1>
-<h3 align="center">Full Stack Developer | MERN | AI Enthusiast</h3>
+<div align="center">
 
----
+# Hi, I'm Shreya Ashar
 
-### About Me  
-- I’m currently working on [Kala Sangam](https://kalasangam-vbvz.onrender.com/)  
-- I’m learning **TypeScript and Cloud Computing**  
-- Ask me about **MERN Stack, Data Analysis, and Web Development**  
-- Reach me at **shreyaashar123@gmail.com**  
+### 🎓 AI Student passionate about software engineering <br> ⚡ Full Stack Developer focused on scalable applications
 
----
-
-### Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreya-ashar-18a027191/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/shreyaashar" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/shreyaashar" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+<p>
+  <a href="https://linkedin.com/in/shreya-ashar-18a027191"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ShreyaSVNIT"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ShreyaAshar/"><img src="https://img.shields.io/badge/LeetCode-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/ShreyaAshar"><img src="https://img.shields.io/badge/Codeforces-FF69B4?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="mailto:shreyaashar123@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=ShreyaSVNIT&label=Profile%20views&color=FF69B4&style=flat" alt="ShreyaSVNIT" />
 
-### Featured Projects  
-- [Kala Sangam](https://kalasangam-vbvz.onrender.com/) – A cultural hub web platform built with MERN + Django backend  
-- [Land Measurement App](https://github.com/ShreyaSVNIT/Land_Measurement) – A tool to measure land areas using mapping and calculations  
+</div>
 
 ---
 
-### Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+### 🚀 At a Glance
+- 🔭 **Current Focus:** Doing Research for [SemEval 2026 Task 4](https://github.com/ShreyaSVNIT/SemEval2026-task4).
+- 🌱 **Deep Diving:** AI/ML Architectures and NLP Research.
+- 💬 **Ask Me About:** MERN Stack, and NLP.
+- 📄 **Resume:** [View my professional background](https://drive.google.com/file/d/1hdTMQ3uiD33K-rQWEFtQa0jfbbUNVv3M/view?usp=sharing)
 
 ---
 
-### GitHub Stats  
+## 🛠️ Featured Projects
+
+| 🧠 [MindSettler](https://github.com/ShreyaSVNIT/mindsettler) | 🔍 [SemEval Task 4](https://github.com/ShreyaSVNIT/SemEval2026-task4) |
+| :--- | :--- |
+| 🔗 [Live Demo](https://mindsettler.vercel.app/) | 🔗 Research Project |
+| • Mental wellness hub for 1-on-1 counseling | • NLP research focused on Semantic Evaluation |
+| • Integrated AI Chatbot for 24/7 guidance | • Fine-tuned LLMs for text classification |
+| • Secure booking for online/offline sessions | • Identifying complex hierarchical relations |
+| • Focus on privacy and user confidentiality | • Data-driven insights using HuggingFace |
+| **Tech:** React, Node.js, MongoDB, GenAI | **Tech:** Python, PyTorch, HuggingFace, NLP |
+
+---
+
+## 📊 Performance & Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasvnit&show_icons=true&theme=radical" height="160"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasvnit&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaSVNIT&theme=highcontrast&stroke=FF69B4&fire=FF69B4" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasvnit&theme=radical" height="160"/>
+  <a href="https://leetcode.com/u/ShreyaAshar/">
+    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=ShreyaAshar&theme=highcontrast&hide_border=false" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/ShreyaAshar/">
+    <img src="https://leetcard.jacoblin.cool/ShreyaAshar?theme=dark&font=Syne%20Mono&ext=heatmap" width="400px" alt="LeetCode Heatmap" />
+  </a>
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=shreyasvnit&color=blue) 
-![GitHub followers](https://img.shields.io/github/followers/shreyasvnit?label=Follow&style=social)  
+<div align="center">
+
+## 🏆 Achievements & Contributions
+* 🥇 **1st Place: Web Wonders Hackathon** — SVNIT
+* 🥈 **Finalist: IIITL Hackathon** — IIITL
+* 🚀 **GSSoc Contributor** — GirlScript Summer of Code (Open Source)
+
+<br>
+
+### 🤝 Let's Collaborate
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge&logo=probot&logoColor=white" height="35"/> 
+  <img src="https://img.shields.io/badge/GENAI-FF69B4?style=for-the-badge&logo=openai&logoColor=white" height="35"/> 
+  <img src="https://img.shields.io/badge/AI/ML-FF69B4?style=for-the-badge&logo=google-cloud&logoColor=white" height="35"/>
+</p>
+  
+</div>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,mongodb,mysql,postgres,django,flask,express,nestjs,docker,git,linux,tailwind,html,css,pytorch,tensorflow,sklearn,huggingface" />
+</p>
